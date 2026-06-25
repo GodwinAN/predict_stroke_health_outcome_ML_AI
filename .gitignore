@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Data files (downloaded automatically by notebook)
+data/
+
+# Utility / temp files
+get-pip.py
+temp_docx/
+~$*
+
+# Claude Code internal file
+CLAUDE.md
